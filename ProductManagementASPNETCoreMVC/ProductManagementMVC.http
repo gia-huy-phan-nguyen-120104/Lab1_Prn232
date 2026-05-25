@@ -1,0 +1,6 @@
+@ProductManagementASPNETCoreMVC_HostAddress = http://localhost:5237
+
+GET {{ProductManagementASPNETCoreMVC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
